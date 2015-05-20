@@ -45,3 +45,7 @@ div{
     width:150px;
     height:auto;
 }
+
+#test {
+    float: left;
+}
