@@ -1,10 +1,10 @@
 <?php
-require_once(__DIR__ . "/database.php");
+require_once(__DIR__ . "/Database.php");
 session_start();
 //The code below regenerates a session with a new id and delete the old session
 session_regenerate_id(true);
 //Below is the code that stores the path to my project
-    $path = "CacholaAa);wesomenauts/php/";
+    $path = "/AaronCIsaac/";
       
 //Below is code that says everything on the right will be stored in the right 
 //variable which is my local host which is my main host
@@ -14,7 +14,7 @@ session_regenerate_id(true);
 //    You need a password to connect to my server    
     $password = "root";
 //This is the name of my database 
-    $database = "awesomenauts_db"; 
+    $database = "CM_db"; 
 //Below my if statement is checking if the connection  is set if it is it will
 //run the code inside it
     if(!isset($_SESSION["connection"])) {
@@ -23,4 +23,3 @@ session_regenerate_id(true);
         $connection = new Database($host, $username, $password, $database);
         $_SESSION["connection"] = $connection;
     } 
-   

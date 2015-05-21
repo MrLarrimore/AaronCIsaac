@@ -29,5 +29,5 @@ $query = $_SESSION["connection"]->query("INSERT INTO users SET "
 //    what eror it was
     else {
         echo "<p>" . $_SESSION["connection"]->error . "</p>";
-//        header('Location: http://localhost/CacaholaA-blog/index.php');
+//        header('Location: http://localhost/Cacahindex.php');
     }

@@ -1,4 +1,7 @@
-
+<?php
+//Below is the code that inputs my header code into my page
+require_once(__DIR__ . "/controller/create-db.php");
+?>
 <html>
    
     <head>
@@ -49,15 +52,12 @@
         <li>
             <a href="register.php">Register </a></li>
         <li class="dropdown">
-          <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Comics <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
-            <li><a href="">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li class="divider"></li>
-            <li><a href="read-posts.php">read post</a></li>
-            <li class="divider"></li>
-            <li><a href="#">One more separated link</a></li>
+              <li><a href="DC.php">DC Comics</a></li>
+              <li><a href="Marvel.php">Marvel Comics</a></li>
+            
+            
           </ul>
         </li>
       </ul>
@@ -210,7 +210,7 @@
             </div>
         </div>
                 <!--js-->
-        <div class="col-sm-6 col-md-4">
+      <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
                 <img class="fart" src="http://upload.wikimedia.org/wikipedia/en/b/bc/Superman_Doomed.jpg">
                 <div class="caption">
@@ -221,7 +221,7 @@
                 <table cellpadding="0" cellspacing="0" width="133" bgcolor=#><tr><td><iframe src="http://www.ratingcode.com/show.php?id=143198467288&st=3&bg=" border="0" width="115" height="37" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bgcolor=></iframe></td><td width="18" align="center" valign="top" style="padding-top:5px"><a href="" target="_blank"><img src="http://www.ratingcode.com/images/info.png" border="0" alt="Free Rating Code" title="Free Rating Code"></a></td></tr></table>
             </div>
         </div>
-              
+  </div>
         
     </body>
 </html>
