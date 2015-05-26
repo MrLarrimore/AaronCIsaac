@@ -1,21 +1,15 @@
-<?php
-//Below is the code that inputs my header code into my page
-require_once(__DIR__ . "/controller/create-db.php");
-?>
 <html>
-   
     <head>
-        <title>Comic Media</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link type="text/css" rel="stylesheet" href="css/bootstrap-theme.css">
+         <link type="text/css" rel="stylesheet" href="css/bootstrap-theme.css">
         <link type="text/css" rel="stylesheet" href="css/bootstrap.css">
         <link type="text/css" rel="stylesheet" href="css/CM.css">
         <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-    </head>
-    <body background="http://www.lionheart-designs.com/inventory/jigsaw%20puzzles/Entertainment/Superheroes.JPG">
-        
-    <nav class="navbar navbar-default">
+  
+  
+
+</head>
+
+<nav class="navbar navbar-default">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     
@@ -41,7 +35,7 @@ require_once(__DIR__ . "/controller/create-db.php");
     <link href="view/navigation.php">
     
       </button>
-      <a class="navbar-brand" href="">Comic-Media</a>
+            <a class="navbar-brand" href="index.php">Comic-Media</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -73,73 +67,12 @@ require_once(__DIR__ . "/controller/create-db.php");
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
-    <body background="http://lindareps.com/SEO-Images/Illustrators/Peter-McDonnell-Lichtenstein-classic-comics-illustrations/images/PM-Target-City-Background.jpg">
-    
-       
-           <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-       <!---carousel --->
-               <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
-  </ol>
-           
-             
-          
-<!---pictures--->
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-    <div class="item active">
-        <img  class="clean" src="captain-america-3.jpg">
-    
-      <div class="carousel-caption">
-        
-      </div>
-    </div>
-    <div class="item">
-        <img class="clean" src="bvs.jpg">
-      <div class="carousel-caption">
-        
-      </div>
-    </div>
-      <div class="item">
-      <img class="clean" src="The-Flash.jpg">
-      <div class="carousel-caption">
-        
-      </div>
-    </div>
-       <div class="item">
-      <img  class="clean" src="Daredevil-Character-Poster.jpg">
-           <div class="carousel-caption">
-          
-      </div>
-    </div>
-       <div class="item">
-      <img class="clean" src="arrow1.png">
-      <div class="carousel-caption">
-        
-      </div>
-    </div>
-    
-  </div>
-
-  <!-- carousel Controls -->
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left"></span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right"></span>
-  </a>
-           </div>
-        
- <!--Accordion-
-        
-               
-     <!--thumbnail-->
-     <!--html-->
+<body background="http://fc08.deviantart.net/fs70/i/2014/171/1/e/dc_comics_wallpaper__2560x1440__by_straxeh-d7n61xe.png">
+    <div class="jumbotron">
+  <h1>DC Comics</h1>
+  
+  
+</div>
     <div class="bs-example" data-example-id="thumbnails-with-custom-content">
     
       <div class="col-sm-6 col-md-4">
@@ -217,7 +150,6 @@ require_once(__DIR__ . "/controller/create-db.php");
             </div>
         </div>
   </div>
+</body>
 
-        
-    </body >
 </html>

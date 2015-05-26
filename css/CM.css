@@ -45,3 +45,24 @@ div{
     width:150px;
     height:auto;
 }
+
+#test {
+    float: left;
+}
+.dc{
+    background-image:url(http://fc08.deviantart.net/fs70/i/2014/171/1/e/dc_comics_wallpaper__2560x1440__by_straxeh-d7n61xe.png);
+.marvel{
+    background-image:url("http://images8.alphacoders.com/415/415993.jpg");
+    background-color: red;
+}
+.level{
+    display:block;
+     margin:auto;
+}
+.iframe{
+  float: right;
+
+  .img{
+      height:150px;
+      width: auto;
+  }
