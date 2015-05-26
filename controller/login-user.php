@@ -13,5 +13,5 @@ if ($query->num_rows == 1) {
         echo "<p>Invalid username and password</p>";
     }
 } else {
-    echo "<p>Invalid username and password error 2</p>";
+    echo "<p>Invalid username and password</p>";
 }

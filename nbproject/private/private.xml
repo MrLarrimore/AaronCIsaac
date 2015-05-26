@@ -3,13 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/AaronCIsaac/controller/login-user.php</file>
-            <file>file:/C:/xampp/htdocs/AaronCIsaac/post.php</file>
-            <file>file:/C:/xampp/htdocs/AaronCIsaac/controller/create-db.php</file>
+            <file>file:/C:/xampp/htdocs/AaronCIsaac/DC.php</file>
+            <file>file:/C:/xampp/htdocs/AaronCIsaac/view/register-form.php</file>
+            <file>file:/C:/xampp/htdocs/AaronCIsaac/controller/save-user.php</file>
             <file>file:/C:/xampp/htdocs/AaronCIsaac/model/config.php</file>
-            <file>file:/C:/xampp/htdocs/AaronCIsaac/css/CM.css</file>
-            <file>file:/C:/xampp/htdocs/AaronCIsaac/login.php</file>
             <file>file:/C:/xampp/htdocs/AaronCIsaac/view/login-form.php</file>
+            <file>file:/C:/xampp/htdocs/AaronCIsaac/Marvel.php</file>
+            <file>file:/C:/xampp/htdocs/AaronCIsaac/controller/create-user.php</file>
+            <file>file:/C:/xampp/htdocs/AaronCIsaac/controller/login-user.php</file>
+            <file>file:/C:/xampp/htdocs/AaronCIsaac/controller/login-verify.php</file>
+            <file>file:/C:/xampp/htdocs/AaronCIsaac/controller/create-db.php</file>
+            <file>file:/C:/xampp/htdocs/AaronCIsaac/css/CM.css</file>
             <file>file:/C:/xampp/htdocs/AaronCIsaac/model/Database.php</file>
             <file>file:/C:/xampp/htdocs/AaronCIsaac/index.php</file>
         </group>
