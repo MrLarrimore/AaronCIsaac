@@ -3,6 +3,7 @@
 require_once(__DIR__ . "/controller/create-db.php");
 ?>
 <html>
+    
    
     <head>
         <title>Comic Media</title>
@@ -15,7 +16,18 @@ require_once(__DIR__ . "/controller/create-db.php");
     </head>
     <body background="http://www.lionheart-designs.com/inventory/jigsaw%20puzzles/Entertainment/Superheroes.JPG">
         
-    <nav class="navbar navbar-default">
+ 
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <?php
+                require_once (__DIR__ . "/model/config.php");
+                ?>
+                <div class="navbar-header">
+                    <a  href="index.php" id='APP'><img src="logo.jpg" class="img-rounded" alt="Logo" height="48" width="80" id='APP' ></a>
+                </div>
+                
+                <div id="navbar" class="navbar-collapse collapse">
+                      <nav class="navbar navbar-default">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     
@@ -47,10 +59,7 @@ require_once(__DIR__ . "/controller/create-db.php");
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="login.php">login<span class="sr-only">(current)</span></a></li>
-        <li><a href="#"></a></li>
-        <li>
-            <a href="register.php">Register </a></li>
+        
         <li class="dropdown">
           <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Comics <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
@@ -65,14 +74,52 @@ require_once(__DIR__ . "/controller/create-db.php");
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Search">
         </div>
-        <button type="submit" class="btn btn-default">Search</button>
+        <button type="submit" class="btn btn-default">
+      <ul class="nav navbar-nav">Search</button>
       </form>
-      <ul class="nav navbar-nav navbar-right">
-       
-      </ul>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
+      </form>
+                        <form class="navbar-form navbar-right" method='post' action='<?php echo $path . "controller/login-user.php"?>'>
+                        <div class="form-group">
+                            <div>
+                                <label for="username"></label>
+                                <!--login form where you login-->
+                                <input type="text" placeholder="Username" class="form-control" name="username" />
+                            </div>
+                        </div>
+                          
+                        <div class="form-group">
+                            <div>
+                                <label for="password"> </label>
+                                <!--where you input your password-->
+                                <input type="password" placeholder="Password" class="form-control" name="password" />
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-success">Sign in</button>
+                       
+                        
+                        
+                        <a type="submit" class="btn btn-info" href="register.php">Register</a>
+                        </form>
+                </div>
+            </div>
+        </nav>
+                 <link href="controller/create-db.php">
+          <link href="controller/create-post.php">
+    <link href="controller/create-user.php">
+    <link href="controller/login-user.php">
+    <link href="controller/login-verify.php">
+    <link href="controller/logout-user.php">
+    <link href="controller/read-posts.php">
+    <link href="model/Database.php">
+    <link href="model/config.php">
+    <link href="view/footer.php">
+    <link href="view/form.php">
+    <link href="view/header.php">
+    <link href="view/login-form.php">
+    <link href="view/navigation.php">
+    
+    
+
     <body background="http://lindareps.com/SEO-Images/Illustrators/Peter-McDonnell-Lichtenstein-classic-comics-illustrations/images/PM-Target-City-Background.jpg">
     
        

@@ -12,8 +12,7 @@ $query = $_SESSION["connection"]->query("INSERT INTO users SET "
         . "email = '',"
         . "username = '$username',"
         . "password = '$hashedPassword'"
-    
-       );
+        ."salt = '$salt',");
     $_SESSION["name"] = $username; 
     if($query) {
 //    Below I redirect my user if the username is corect and It lets me know 

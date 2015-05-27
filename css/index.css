@@ -1,0 +1,25 @@
+
+
+.navbar-brand{
+    text-decoration-color: #000;
+    background-color:  rgb(230,0,0)
+}
+#APP{
+    background-color: #fff;
+}
+#Register{
+    text-align: center;
+}
+#Jumbo2, #nav2{
+    background-color: #fff;
+}
+#Learn{
+    padding-top: 90px;
+    background-color: red;
+}
+#body2{
+    background-color: red;
+}
+#nav2{
+    border-bottom-color: #fff;
+}
