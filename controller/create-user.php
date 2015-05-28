@@ -1,28 +1,25 @@
 <?php
 //Below is the code that inputs my config code into my page
 require_once(__DIR__ . "/../model/config.php");
+//Below is the coded that says the email you out in has to be a real email
+$email = filter_input(INPUT_POST, "email", FILTER_SANITIZE_EMAIL);
 //Below is the code that says the username you put in has to be a real character
 $username = filter_input(INPUT_POST, "username", FILTER_SANITIZE_STRING);
 //Below is the code that says the password you put in has to be a real character
 $password = filter_input(INPUT_POST, "password", FILTER_SANITIZE_STRING);
 //Below is the code that creates my hashed password 
-
-$hashedPassword = crypt($password);
+$salt = "$5$" . "rounds=5000$" . uniqid(mt_rand(), true) . "$";
+$hashedPassword = crypt($password, $salt);
 $query = $_SESSION["connection"]->query("INSERT INTO users SET "
-        . "email = '',"
+        . "email = '$email',"
         . "username = '$username',"
-        . "password = '$hashedPassword'"
-        ."salt = '$salt',");
-    $_SESSION["name"] = $username; 
+        . "password = '$hashedPassword',"
+        . "salt = '$salt'");
     if($query) {
-//    Below I redirect my user if the username is corect and It lets me know 
-//    iif the usernname was correct
-        echo "user made"; 
-//        header('Location: http://localhost/CacaholaA-blog/index.php');
+          header("location: " . $path . "index.php");
+        echo "Successfully created user: $username"; 
+        
     } 
-//    Below I redirect my user if the username is incorect and It lets me know 
-//    what eror it was
     else {
         echo "<p>" . $_SESSION["connection"]->error . "</p>";
-//        header('Location: http://localhost/Cacahindex.php');
     }

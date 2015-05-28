@@ -29,10 +29,12 @@ di{
     height: auto;
 }
 .title1{
-   color:darkturquoise ;
+   color:black;
    text-align: center;
    font-family: 'Lobster', cursive;
    font-size: 70px;
+    border-style : solid;
+    border-width: 5px; 
        
 }
 .clean{
@@ -60,8 +62,8 @@ di{
      margin:auto;
 }
 .iframe{
-  float: right;
-
+    padding-left: 456px;
+}
   .img{
       height:150px;
       width: auto;
