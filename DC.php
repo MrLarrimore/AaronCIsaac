@@ -75,11 +75,11 @@
     
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <img class="fart" src="http://www.spiderfan.org/comics/images/marvel_handbook_one_shots/civil_war.jpg">
+          <img class="fart" src="http://ecx.images-amazon.com/images/I/619%2BdV7BLmL._SY344_BO1,204,203,200_.jpg">
           <div class="caption">
-            <h3>Civil War</h3>
+            <h3>Brighest Day</h3>
             <p>  </p>
-            <p><a href="CivilWar.html" class="btn btn-primary" role="button">video</a> <a href="https://www.google.com/shopping/product/15207203429266517010?sclient=psy-ab&biw=1366&bih=667&q=marvel+comics+civil+war&oq=marvel+comics+civil+war&pbx=1&bav=on.2,or.r_cp.&bvm=bv.93990622,d.eXY&tch=1&ech=1&psi=1qpmVfv9BsOagwSY7oCQCw.1432791767277.3&prds=paur:ClkAsKraX69YwVpF2B8vZ7DFMQWIC39tJHC8zM2OtXDVGR2J-DjzGQsRpfz7SIiRUAwVLGuCYtIB1MH0txyWxd9HqqO7a_d_p5iQ8xmHmZqTRirYw0W_HX6cvxIZAFPVH72on_6lHu2XEz6S8YaiAZcJBpwe5Q&ved=0CAsQpis&ei=3KpmVdWpJsKvggT78oH4Cw" class="btn btn-default" role="button">Get It</a></p>
+            <p><a href="BrightestDay.html" class="btn btn-primary" role="button">video</a> <a href="https://www.google.com/shopping/product/18329763937451744857?q=green+lantern+brightest+day&espv=2&biw=1366&bih=667&dpr=1&prds=paur:ClkAsKraXz-wpW_H_vhF1MzN9j1o9vF88BDJCo1xba1B7irKp2pfV-xK0VkwhgF6UnEz3vkf_bynZP4ywncZfLDTBowBvt-hdcCiR75AMfPVBoFubEAb6la6gxIZAFPVH72OpXF6KWyxzK2f2TU_wA5KoeI0KQ&ved=0CAUQpis&ei=wYdnVcabN86pogS2jIDQDg" class="btn btn-default" role="button">Get It</a></p>
           </div>
           <table cellpadding="0" cellspacing="0" width="133" bgcolor=#><tr><td><iframe src="http://www.ratingcode.com/show.php?id=143198467288&st=3&bg=" border="0" width="115" height="37" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bgcolor=></iframe></td><td width="18" align="center" valign="top" style="padding-top:5px"><a href="" target="_blank"><img src="http://www.ratingcode.com/images/info.png" border="0" alt="Free Rating Code" title="Free Rating Code"></a></td></tr></table>
         </div>
@@ -87,11 +87,11 @@
         <!--css-->
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <img class="fart" src="http://static.comicvine.com/uploads/original/0/40/4161589-1.jpg">
+          <img class="fart" src="http://static.comicvine.com/uploads/original/1/18993/1527764-blackest_night.jpg">
           <div class="caption">
-            <h3>Death of Wolverine</h3>
+            <h3>Blackest Night</h3>
             <p></p>
-            <p><a href="DoW.html" class="btn btn-primary" role="button">video</a> <a href="http://www.bookdepository.com/book/9781846536397?redirected=true&v=A7V6J&selectCurrency=USD&gclid=CMa4zrPe48UCFQqVfgod1ZcALw" class="btn btn-default" role="button">Get It</a></p>
+            <p><a href="BlackestNight.html" class="btn btn-primary" role="button">video</a> <a href="https://www.google.com/shopping/product/7146333321127561666?q=green+lantern+blackest+night&biw=1366&bih=667&dpr=1&prds=paur:ClkAsKraX8HQ165B2D2N5cInoLMQqLf9sBiNmLQDHP7AiBQ3kSXAV9uPcMK1QeDU9-cMsuFMcZTwdq7dixCL42YArPfSMlAiBvvm0kL8kLBRi6vVbB9iZu2f9RIZAFPVH73N0X4LE4pbDuu2YhovO85kuYkMow&ved=0CAUQpis&ei=f4lnVaahOI3poATNooKoCw" class="btn btn-default" role="button">Get It</a></p>
           </div>
           <table cellpadding="0" cellspacing="0" width="133" bgcolor=#><tr><td><iframe src="http://www.ratingcode.com/show.php?id=143198467288&st=3&bg=" border="0" width="115" height="37" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bgcolor=></iframe></td><td width="18" align="center" valign="top" style="padding-top:5px"><a href="" target="_blank"><img src="http://www.ratingcode.com/images/info.png" border="0" alt="Free Rating Code" title="Free Rating Code"></a></td></tr></table>
         </div>
@@ -101,12 +101,12 @@
         
         <div class="col-sm-6 col-md-4" >
             <div class="thumbnail">
-                <img class="fart" src="http://www.comicbookherald.com/wp-content/uploads/2014/03/house-of-m-trade.jpg">
+                <img class="fart" src="http://wac.450f.edgecastcdn.net/80450F/comicsalliance.com/files/2012/11/bmv1court-of-owls.jpg">
                 <div class="caption">
-                    <h3>House of M</h3>
+                    <h3>Court of Owls</h3>
                     <p> </p>
                     
-                    <p><a href="HousofM.html" class="btn btn-primary" role="button">video</a> <a href="https://www.google.com/shopping/product/16872782976614770072?q=house+of+m&espv=2&biw=1366&bih=667&dpr=1&prds=paur:ClkAsKraX2TQ6K8GB9P_YKMibBjstVebQAkzQHma4SZ1tID5tg8sAbNwDRQoKS-kW3reJS6nYimXst4DGc-OpcTGRW6ZhGmKgLnt1qrLPlF1eHasifJ5TOVfIRIZAFPVH70P9FVUquRYwczuwhwixcxXEUu06w&ved=0CAUQpis&ei=7K5mVeS6FIzUgwSKwYBg" class="btn btn-default" role="button">Get It</a></p>
+                    <p><a href="Coo.html" class="btn btn-primary" role="button">video</a> <a href="https://www.google.com/shopping/product/5209213499696902683?sclient=psy-ab&biw=1366&bih=667&q=batman+court+of+owls+&oq=batman+court+of+owls+&pbx=1&bav=on.2,or.r_cp.&bvm=bv.94455598,d.cGU&tch=1&ech=1&psi=JItnVauwKYKWoQThp4HgBA.1432849189477.3&prds=paur:ClkAsKraX8exD0N8Y_X0hLrY22I3bO3U0_k4GWu5dj0es2SdFSVs4ADw1nL-9_Z_CROhbWGrdNJb-hOSn3EYubIkHEgnVIaGi4XsSWddN93e8Gmu4BCsQtzOuxIZAFPVH70PGTLRNTRdRj1d8Jmt2Tk13G8bqw&ved=0CAsQpis&ei=K4tnVejiNIXboATkr4LQBg" class="btn btn-default" role="button">Get It</a></p>
        
                 </div>
                 <table cellpadding="0" cellspacing="0" width="133" bgcolor=#><tr><td><iframe src="http://www.ratingcode.com/show.php?id=143198467288&st=3&bg=" border="0" width="115" height="37" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bgcolor=></iframe></td><td width="18" align="center" valign="top" style="padding-top:5px"><a href="" target="_blank"><img src="http://www.ratingcode.com/images/info.png" border="0" alt="Free Rating Code" title="Free Rating Code"></a></td></tr></table>
@@ -115,11 +115,11 @@
         
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <img class="fart" src="http://www.aspenstore.com/assets/images/imagesbig/world-war-hulk-1-aspen.jpg">
+                <img class="fart" src="http://batman-news.com/wp-content/uploads/2013/03/BM_NOWLS.jpg">
                 <div class="caption">
-                    <h3>World War Hulk</h3>
+                    <h3>Night of Owls</h3>
                     <p></p>
-                    <p><a href="WWH.html" class="btn btn-primary" role="button">video</a> <a href="https://www.google.com/shopping/product/13569563762035788731?q=world+war+hulk&espv=2&biw=1366&bih=667&bav=on.2,or.r_cp.&bvm=bv.93990622,d.cGU&ion=1&tch=1&ech=1&psi=-GNnVYrfDMLjoASc04PwCg.1432839160803.5&prds=paur:ClkAsKraXw36lPLyi46p7zmpCHJ69vU0IeHOcRx58q-n2xmC6B8aTuIQwr4c8yp3w58C5eDcEq58g6JZxlwVGWN6zErVsWrBwpZXci05RhOpSkMmWRk3b0uHFBIZAFPVH73sEL2vCNtYvbuHbMOBPP4ExgWo7Q&ved=0CAQQpis&ei=A2RnVfLIBYzSoATpuoMw" class="btn btn-default" role="button">Get It</a></p>
+                    <p><a href="Noo.html" class="btn btn-primary" role="button">video</a> <a href="https://www.google.com/shopping/product/15194934865014101602?q=batman+night+of+owls+cover&biw=1366&bih=667&dpr=1&prds=paur:ClkAsKraX5PIvRWNMDExIdw4qe-Rp3MAAvPLjwB7gKlugE34NEWTgXcjCo_GwoSRvkVV_fETDNjNvK2RQNwJ-EUlzy0mLNkGULbeM9X_I2Oqeb88p0r6Q7sQ4BIZAFPVH702YZzqzzEw9ZyaothjGbxybA02cQ&ved=0CAUQpis&ei=Y4xnVc_HFpLvoASnw4IY" class="btn btn-default" role="button">Get It</a></p>
                 </div>
                 <table cellpadding="0" cellspacing="0" width="133" bgcolor=#><tr><td><iframe src="http://www.ratingcode.com/show.php?id=143198467288&st=3&bg=" border="0" width="115" height="37" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bgcolor=></iframe></td><td width="18" align="center" valign="top" style="padding-top:5px"><a href="" target="_blank"><img src="http://www.ratingcode.com/images/info.png" border="0" alt="Free Rating Code" title="Free Rating Code"></a></td></tr></table>
             </div>
@@ -127,11 +127,11 @@
                 <!--js-->
       <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <img class="fart" src="http://static.comicvine.com/uploads/scale_large/6/67663/4226483-26.jpg">
+                <img class="fart" src="http://cdn1.sciencefiction.com/wp-content/uploads/2013/02/Aquaman_16_Full-665x1024.jpg">
                 <div class="caption">
-                    <h3>New Avengers</h3>
+                    <h3>Throne of Atlantis</h3>
                     <p> </p>
-                    <p><a href="NewAvengers.html" class="btn btn-primary" role="button">video</a> <a href="https://www.google.com/shopping/product/4492487456531337311?sclient=psy-ab&biw=1366&bih=667&q=new+avengers+everything+dies+&oq=new+avengers+everything+dies+&pbx=1&bav=on.2,or.r_cp.&bvm=bv.93990622,d.eXY&tch=1&ech=1&psi=hK1mVdbkOoe5ggT_tIGAAQ.1432792453679.3&prds=paur:ClkAsKraX_pTHdjdqQZuMsdrBUrsSwLnmPcAoxxbVJzFxRwOcCO2YMI3nYeRRzy8fjma-WyMhZ_hOdzro9oxMT-Q_bysCDPohog2ZtZ8ElaUJ0Ifh28HB_6QDhIZAFPVH71JbjJ5XW2I7ZGAs9QCBDiT7OqmwA&ved=0CAQQpis&ei=ia1mVc_FM4WegwTI6YGACA" class="btn btn-default" role="button">Get It</a></p>
+                    <p><a href="Throne.html" class="btn btn-primary" role="button">video</a> <a href="https://www.google.com/shopping/product/9684865506431783261?q=throne+of+atlantis&biw=1366&bih=667&dpr=1&prds=paur:ClkAsKraX6aoAVi5AMM9y83oCQI6MQ0dsonvR3R6dLiIrgKWM4RFMYWnVVkNHIupGfeFkLm6hRggPmzIKFs7oG0Uu3oAsDtsRo5BoFGuqgSEM8xEquhqjDPfihIZAFPVH71U0_KoAjOBXghyF5Np9K_sL4ib6A&ved=0CEkQpis&ei=QI1nVd-ZIsarogTltID4DQ" class="btn btn-default" role="button">Get It</a></p>
                 </div>
                 <table cellpadding="0" cellspacing="0" width="133" bgcolor=#><tr><td><iframe src="http://www.ratingcode.com/show.php?id=143198467288&st=3&bg=" border="0" width="115" height="37" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bgcolor=></iframe></td><td width="18" align="center" valign="top" style="padding-top:5px"><a href="" target="_blank"><img src="http://www.ratingcode.com/images/info.png" border="0" alt="Free Rating Code" title="Free Rating Code"></a></td></tr></table>
             </div>
@@ -141,11 +141,11 @@
   
      <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <img class="fart" src="http://x.annihil.us/u/prod/marvel/i/mg/8/a0/545d017cdbb04.jpg">
+          <img class="fart" src="http://d.gr-assets.com/books/1344521289l/13533744.jpg">
           <div class="caption">
-            <h3>Spider-Verse</h3>
+            <h3>Move Forward</h3>
             <p></p>
-            <p><a href="SpiderVerse.html" class="btn btn-primary" role="button">video</a> <a href="https://www.google.com/shopping/product/2908207021611214369?q=spider-verse&espv=2&biw=1366&bih=667&dpr=1&prds=paur:ClkAsKraX6FR-a1MhFQ6l6OwqCQh4xlCHx_w65Ov8azhJiOEyFVwFZRzwLMBhLp9mQM5q_fFGl5hX3yaE1Tm-3qAycGZspAgwJW6FEgmwgkyeFTjwQiCImD1-xIZAFPVH72YTU1rZkMcixirwTBDQzJF0Nfs-w&ved=0CAwQpis&ei=G7BmVcLjKpLigwSg0IKwAw" class="btn btn-default" role="button">Get It</a></p>
+            <p><a href="MoveForward.html" class="btn btn-primary" role="button">video</a> <a href="https://www.google.com/shopping/product/2153926648566383221?q=flash+move+forward+cover&biw=1366&bih=667&dpr=1&prds=paur:ClkAsKraX8IEXKMoZnFUBWuecoOJ6QCMVmE8RHRH0P2NG5tZF1qh5SD3Cxw5WhYCgdOCIsuwtOiY4vreDlZy2SljWOUOaGG665uYXeFObF3eeWGyqcGDbhJuRRIZAFPVH7202kNnxh40izaTTGOxf0pGaEjFgA&ved=0CAUQpis&ei=OI5nVeSMIIbcoATkuYHQCw" class="btn btn-default" role="button">Get It</a></p>
           </div>
           <table cellpadding="0" cellspacing="0" width="133" bgcolor=#><tr><td><iframe src="http://www.ratingcode.com/show.php?id=143198467288&st=3&bg=" border="0" width="115" height="37" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bgcolor=></iframe></td><td width="18" align="center" valign="top" style="padding-top:5px"><a href="" target="_blank"><img src="http://www.ratingcode.com/images/info.png" border="0" alt="Free Rating Code" title="Free Rating Code"></a></td></tr></table>
         </div>
